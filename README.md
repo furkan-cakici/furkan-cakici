@@ -29,7 +29,6 @@
  <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-434d58.svg?logo=csharp&logoColor=white"></a>
  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-434d58.svg?logo=php&logoColor=white"></a>
- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-434d58.svg?logo=typescript&logoColor=white"></a>
  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-434d58.svg?logo=html5&logoColor=white"></a>
  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css3&logoColor=white"></a>
  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
