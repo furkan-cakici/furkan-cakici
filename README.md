@@ -2,26 +2,72 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQF0rMxAL1ry0w/profile-displaybackgroundimage-shrink_200_800/B4DZobrw2hJIAU-/0/1761401049322?e=1778112000&v=beta&t=Q_lJUXZLdHOEcOJb0nFyrUCDujjBSlgorJV2BXmDRu4" alt="MasterHead" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Furkan Çakıcı</h1>
+<h3 align="center">Hi 👋, I'm Furkan Çakıcı</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">A passionate recent Computer Engineering graduate</h3>
 
-- 📫 How to reach me **furkancakici2611@gmail.com**
+<h3 align="left">💻 Social Media :</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/furkan-çakici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-çakici" height="30" width="40" /></a>
-<a href="https://instagram.com/furkan_cakici16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkan_cakici16" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/furkan-%C3%A7akici/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-434d58?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/furkan_cakici16/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-434d58?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:furkancakici2611@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-434d58?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
+<!-- Languages and Tools -->
+<h3 align="left"><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=20 height=20> Languages And Tools :</h3>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p>
+ <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
+ <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-434d58.svg?logo=c-in-hexagon&logoColor=white"></a>
+ <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-434d58.svg?logo=csharp&logoColor=white"></a>
+ <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-434d58.svg?logo=php&logoColor=white"></a>
+ <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-434d58.svg?logo=typescript&logoColor=white"></a>
+ <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-434d58.svg?logo=html5&logoColor=white"></a>
+ <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-434d58.svg?logo=css3&logoColor=white"></a>
+ <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-434d58.svg?logo=bootstrap&logoColor=white"></a>
+ <a href="#"><img alt="GoogleFonts" src="https://img.shields.io/badge/GoogleFonts-434d58.svg?logo=googlefonts&logoColor=white"></a>
+ <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-434d58.svg?logo=canva&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-434d58.svg?logo=figma&logoColor=white"></a>
+ <a href="#"><img alt="React" src="https://custom-icon-badges.demolab.com/badge/React-434d58.svg?logo=react&logoColor=white"></a>
+ <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-434d58.svg?logo=android&logoColor=white"></a>
+ <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-434d58.svg?logo=kotlin&logoColor=white"></a>
+ <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-434d58.svg?logo=mathworks&logoColor=white"></a>
+ <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-434d58.svg?logo=database&logoColor=white"></a>
+ <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-434d58.svg?logo=microsoftsqlserver&logoColor=white"></a>
+ <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-434d58.svg?logo=firebase&logoColor=white"></a>
+ <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/XAMPP-434d58.svg?logo=xampp&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-434d58.svg?logo=docker&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-434d58.svg?logo=virtualbox&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-434d58.svg?logo=ubuntu&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-434d58.svg?logo=linux&logoColor=white&style=flat"></a>
+ <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-434d58.svg?logo=unity&logoColor=white"></a>
+ <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-434d58.svg?logo=unrealengine&logoColor=white"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkan-cakici&show_icons=true&locale=en&layout=compact" alt="furkan-cakici" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+[![Furkan Çakıcı's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=furkan-cakici&theme=merko&line=434d58)](https://github.com/furkan-cakici/github-readme-activity-graph)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkan-cakici&show_icons=true&locale=en" alt="furkan-cakici" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-cakici&" alt="furkan-cakici" /></p>
+![furkan-cakici's Stats](https://github-readme-stats.vercel.app/api?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-<div align="center">
-  <img src="https://github.com/furkan-cakici/furkan-cakici/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
-</div>
+![furkan-cakici's Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkan-cakici&theme=tokyonight&hide_border=true)
+
+![furkan-cakici's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+
+
+
+
+
+
+
+
