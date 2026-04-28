@@ -51,20 +51,17 @@
  <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-434d58.svg?logo=unrealengine&logoColor=white"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-[![Furkan Çakıcı's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=furkan-cakici&theme=merko&line=434d58)](https://github.com/furkan-cakici/github-readme-activity-graph)
+[![Furkan Çakıcı's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=furkan-cakici&theme=merko&line=434d58&v=1)](https://github.com/furkan-cakici/github-readme-activity-graph)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![furkan-cakici's Stats](https://github-readme-stats.vercel.app/api?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1)
 
-![furkan-cakici's Stats](https://github-readme-stats.vercel.app/api?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![furkan-cakici's Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkan-cakici&theme=tokyonight&hide_border=true&v=1)
 
-![furkan-cakici's Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkan-cakici&theme=tokyonight&hide_border=true)
-
-![furkan-cakici's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![furkan-cakici's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&v=1)
 
 <div align="center">
   
-![snake gif](https://github.com/furkan-cakici/furkan-cakici/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/furkan-cakici/furkan-cakici/output/github-snake-dark.svg?v=1)
 
 </div>
 
