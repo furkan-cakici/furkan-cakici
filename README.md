@@ -61,7 +61,7 @@
 
 <div align="center">
   
-![snake gif](https://raw.githubusercontent.com/furkan-cakici/furkan-cakici/output/github-snake-dark.svg?v=1)
+![Snake animation](https://github.com/furkan-cakici/furkan-cakici/blob/output/github-snake-dark.svg)
 
 </div>
 
