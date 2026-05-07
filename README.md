@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQF0rMxAL1ry0w/profile-displaybackgroundimage-shrink_200_800/B4DZobrw2hJIAU-/0/1761401049322?e=1778112000&v=beta&t=Q_lJUXZLdHOEcOJb0nFyrUCDujjBSlgorJV2BXmDRu4" alt="MasterHead" width="945" height="294"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQF0rMxAL1ry0w/profile-displaybackgroundimage-shrink_200_800/B4DZobrw2hJIAU-/0/1761401049322?e=1779926400&v=beta&t=bNWCVWBVNgtWXHoJpoU-fIvftzXpjKk9D4BbKtSdrTU" alt="MasterHead" width="945" height="294"/>
 </div>
 
 <h3 align="center">Hi 👋, I'm Furkan Çakıcı</h3>
