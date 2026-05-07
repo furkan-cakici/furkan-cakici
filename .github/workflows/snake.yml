@@ -1,31 +1,24 @@
 name: GitHub Snake Game
-
 on:
-  # Her gün gece yarısı otomatik çalışır
   schedule:
     - cron: "0 0 * * *"
-  
-  # Manuel tetikleme sağlar
   workflow_dispatch:
-  
-  # Main branch'e push yapıldığında çalışır
   push:
     branches:
       - main
 
 jobs:
   generate:
-    permissions: 
-      contents: write # Dosyaları branch'e geri yazabilmek için bu izin şarttır
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
-      # Step 1: Depoyu kontrol et (Checkout)
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-      # Step 2: Yılan animasyonlarını oluştur
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -37,11 +30,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Oluşturulan dosyaları 'output' branch'ine yükle
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: output # Animasyonlar bu branch'te saklanacak
+          publish_branch: output
           commit_message: "Update snake animation [skip ci]"
