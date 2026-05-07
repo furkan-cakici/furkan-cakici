@@ -65,11 +65,6 @@
 
 </div>
 
-![Stats](https://SENIN-VERCEL-URL.vercel.app/api?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![Streak](https://SENIN-VERCEL-URL.vercel.app/api/streak-stats?user=furkan-cakici&theme=tokyonight&hide_border=true)
-
-![Languages](https://SENIN-VERCEL-URL.vercel.app/api/top-langs/?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
