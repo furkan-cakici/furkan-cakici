@@ -28,11 +28,13 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Yılanın gizli repoları okuyabilmesi için token'ı burada güncelledik
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
+          # Bu kısım repoya dosya yazma işlemi içindir, standart token kalabilir
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
