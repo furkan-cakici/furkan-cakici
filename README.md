@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQF0rMxAL1ry0w/profile-displaybackgroundimage-shrink_200_800/B4DZobrw2hJIAU-/0/1761401049322?e=1779926400&v=beta&t=bNWCVWBVNgtWXHoJpoU-fIvftzXpjKk9D4BbKtSdrTU" alt="MasterHead" width="945" height="294"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamMybGJnNnR3OGwxcTlrMTB2MmswOXl4aHZ2YW1pdWlhOHprYXc0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" alt="MasterHead" width="945" height="294"/>
 </div>
 
 <h3 align="center">Hi 👋, I'm Furkan Çakıcı</h3>
@@ -51,13 +51,7 @@
  <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-434d58.svg?logo=unrealengine&logoColor=white"></a>
 </p>
 
-[![Furkan Çakıcı's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=furkan-cakici&theme=merko&line=434d58&v=1)](https://github.com/furkan-cakici/github-readme-activity-graph)
 
-![furkan-cakici's Stats](https://github-readme-stats.vercel.app/api?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1)
-
-![furkan-cakici's Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkan-cakici&theme=tokyonight&hide_border=true&v=1)
-
-![furkan-cakici's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&v=1)
 
 <div align="center">
   
