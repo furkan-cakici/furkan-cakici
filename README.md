@@ -55,7 +55,7 @@
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/furkan-cakici/furkan-cakici/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/furkan-cakici/furkan-cakici/output/github-snake-dark.svg?v=1)
 
 </div>
 
