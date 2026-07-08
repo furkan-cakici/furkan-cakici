@@ -51,19 +51,17 @@
  <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-434d58.svg?logo=unrealengine&logoColor=white"></a>
 </p>
 
+
 [![Furkan Çakıcı's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=furkan-cakici&theme=merko&line=434d58&v=1)](https://github.com/furkan-cakici/github-readme-activity-graph)
 
 
-
-![furkan-cakici's Stats](https://github-readme-stats.vercel.app/api?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1)
-
+![furkan-cakici's Stats](https://github-readme-stats-seven-ashy-93.vercel.app/api?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1)
 
 
 ![furkan-cakici's Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkan-cakici&theme=tokyonight&hide_border=true&v=1)
 
 
-
-![furkan-cakici's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&v=1)
+![furkan-cakici's Top Languages](https://github-readme-stats-seven-ashy-93.vercel.app/api/top-langs/?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&v=1)
 
 <div align="center">
   
