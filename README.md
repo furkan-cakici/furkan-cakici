@@ -18,7 +18,7 @@
 
 ---
 
-### ⚡ Core Technical Stack
+###  Core Technical Stack
 
 - **Languages:** C#, C++, Python, Kotlin, SQL (T-SQL)
 - **Backend & Cloud:** ASP.NET Core MVC, Entity Framework Core, FastAPI, PostgreSQL, MSSQL, Firebase
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats-seven-ashy-93.vercel.app/api?username=furkan-cakici&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Furkan's GitHub Stats" />
